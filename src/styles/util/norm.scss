@@ -1,0 +1,19 @@
+html {
+  font-family: "Roboto", sans-serif;
+  scroll-behavior: smooth;
+}
+
+body {
+  background-color: $c-gray;
+  
+}
+
+* {
+  box-sizing: border-box;
+}
+
+.highlighted {
+  color: #0075dc;
+  font-weight: 700;
+  text-decoration: none;
+}
